@@ -34,7 +34,7 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/tomas-tultchinsky-5a98732ba/)">
+<a href="https://www.linkedin.com/in/tomas-tultchinsky-5a98732ba/">
   <img alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
