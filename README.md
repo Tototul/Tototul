@@ -34,11 +34,11 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tomas-tultchinsky/">
+<a href="[https://www.linkedin.com/in/tomas-tultchinsky/](https://www.linkedin.com/in/tomas-tultchinsky-5a98732ba/)">
   <img alt="LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
-<a href="mailto:tomas.tultchinsky@gmail.com">
+<a href="mailto:tultchinskytomas@gmail.com">
   <img alt="Gmail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
 
