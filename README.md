@@ -61,7 +61,9 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
   <img src="https://img.shields.io/badge/CQRS-%23007ACC.svg"/>
   <img src="https://img.shields.io/badge/MediatR-%23FF4081.svg"/>
   <img src="https://img.shields.io/badge/Arquitectura%20Limpia-%23000000.svg?logo=codefactor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=.net&logoColor=white"/>
 </p>
+
 
 ### 🧑‍💻 Frontend
 
@@ -171,14 +173,7 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
 
 <br>
 
-## <b>💪Quote || Fact</b>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
-<br>
-
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
+#### <p align="center"><b>Gracias por tomarte el tiempo de leer mi perfil</b></p>
 
 -----
 
