@@ -103,8 +103,8 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tomas-tultchinsky&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=tomas-tultchinsky&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tototul&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Tototul&theme=tokyonight"/>
 </p>
 
 ---
