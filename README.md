@@ -71,7 +71,7 @@ Actualmente trabajo en **Digip**, una empresa dedicada a simplificar la gestión
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Blazor%20Server-%23512BD4.svg?logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?logo=blazor&logoColor=white" alt="Blazor badge"/>
 </p>
 
 ### ⚙️ Herramientas de Desarrollo
